@@ -1,7 +1,7 @@
 {
   "name": "@miloandco/vue-beautiful-chat",
   "version": "2.5.0",
-  "description": "A simple and beautiful Vue chat component backend agnostic.",
+  "description": "Fork of vue-beautiful-chat extended with extra features",
   "main": "./dist/vue-beautiful-chat.umd.min.js",
   "repository": "https://github.com/mattmezza/vue-beautiful-chat.git",
   "author": "Matteo Merola <mattmezza@gmail.com>",
